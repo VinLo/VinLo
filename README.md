@@ -1,6 +1,6 @@
 ### 👨‍💻 Hi, About me:
 
-- 👋 Hi, I’m @VinLo
+- 👋 Hi, I’m Loc
 - 🌱  I’m currently learning about NodeJs
 - 📫 I want to improve my English and programming skills. I hope to be able to become a full stack developer. 
 
